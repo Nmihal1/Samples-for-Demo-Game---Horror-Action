@@ -1,1 +1,1 @@
-# Samples-for-Demo-Game---Horror-Action
+This repository contains code samples for the development of a Demo for a horror game I took part in when I was working for a company. The repository contains scripts for the implementation of a Waypoint system, Triggers, Random NavMesh Walk, an Inventory System, an Enemy Controller, Pickup Action, Boss Behavior, 
